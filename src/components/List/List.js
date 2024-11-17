@@ -226,7 +226,6 @@ export default function List(props) {
                 }[props.groupValue]
               }
             </div>
-            <div className="list-sum">{cardCount}</div>
           </div>
           <div className="list-header-right">
             <div className="list-add-item">
